@@ -23,4 +23,4 @@ The SeqVista project focuses on advancing Vision-Language Navigation (VLN) by de
 We observed that the removal of attention mechanism heavily impacts the model's ability to accurately navigate rooms.
 
 ## Acknowledgments
-We used identical settings to [Matterport3D and their models](https://github.com/peteanderson80/Matterport3DSimulator) and removed the attention mechanism.
+We modified the settings in [Matterport3D and their models](https://github.com/peteanderson80/Matterport3DSimulator) and removed the attention mechanism.
