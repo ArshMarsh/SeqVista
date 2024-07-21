@@ -2,7 +2,7 @@
 
 ## Overview
 
-The SeqVista project focuses on advancing Vision-Language Navigation (VLN) by developing a robust Sequence-to-Sequence (Seq2Seq) model. The objective is to train an autonomous agent to interpret and execute natural language instructions in unseen environments, utilizing advanced natural language processing and computer vision techniques.
+The SeqVista project focuses on advancing Vision-Language Navigation (VLN) by developing a robust Sequence-to-Sequence (Seq2Seq) model. The objective is to train an autonomous agent to interpret and execute natural language instructions in unseen environments..
 
 ## Method
 
